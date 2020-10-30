@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">learnListSort</string>
+    <string name="backBtn">ソート選択に戻る</string>
+    <string name="appDescription">これは並び替えをするアプリです。</string>
+    <string name="pickItemText">並び替えの項目を選んでください</string>
+    <string name="typeSelectingText">並び替えの種別を選んでください</string>
+    <string name="sortBtn">ソートする</string>
+
+    <string-array name="itemSelect">
+        <item>選択してください</item>
+        <item>番号</item>
+        <item>クラス</item>
+        <item>年齢</item>
+        <item>点数</item>
+    </string-array>
+
+    <string-array name="sortOrder">
+        <item>選択してください</item>
+        <item>昇順</item>
+        <item>降順</item>
+    </string-array>
+</resources>

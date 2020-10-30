@@ -1,0 +1,95 @@
+{
+  "datas":[
+    {
+      "number" : "0001",
+      "name" : "百点　太郎",
+      "kurasu" : "Ａ",
+      "age" : 5,
+      "score" : 100
+    },
+    {
+      "number" : "0002",
+      "name" : "９０点　次郎",
+      "kurasu" : "Ｃ",
+      "age" : 8,
+      "score" : 90
+    },
+    {
+      "number" : "0003",
+      "name" : "８０点　三郎",
+      "kurasu" : "Ｂ",
+      "age" : 4,
+      "score" : 80
+    },
+    {
+      "number" : "0004",
+      "name" : "７０点　はな子",
+      "kurasu" : "Ｄ",
+      "age" : 3,
+      "score" : 70
+    },
+    {
+      "number" : "0005",
+      "name" : "６０点　ひな子",
+      "kurasu" : "Ｆ",
+      "age" : 2,
+      "score" : 60
+    },
+    {
+      "number" : "0006",
+      "name" : "５０点　ふな子",
+      "kurasu" : "Ｅ",
+      "age" : 1,
+      "score" : 50
+    },
+    {
+      "number" : "0007",
+      "name" : "４０点　四郎",
+      "kurasu" : "Ｄ",
+      "age" : 9,
+      "score" : 40
+    },
+    {
+      "number" : "0008",
+      "name" : "３０点　へな子",
+      "kurasu" : "Ｇ",
+      "age" : 11,
+      "score" : 30
+    },
+    {
+      "number" : "0009",
+      "name" : "２０点　五郎",
+      "kurasu" : "Ｈ",
+      "age" : 15,
+      "score" : 20
+    },
+    {
+      "number" : "0010",
+      "name" : "０点　ほな子",
+      "kurasu" : "Ｇ",
+      "age" : 12,
+      "score" : 0
+    },
+    {
+      "number" : "0011",
+      "name" : "１１点　いぬ太",
+      "kurasu" : "Ｄ",
+      "age" : 11,
+      "score" : 11
+    },
+    {
+      "number" : "0012",
+      "name" : "１０点　ね子",
+      "kurasu" : "Ｃ",
+      "age" : 5,
+      "score" : 10
+    },
+    {
+      "number" : "0013",
+      "name" : "０点　六郎",
+      "kurasu" : "Ａ",
+      "age" : 12,
+      "score" : 0
+    }
+  ]
+}
